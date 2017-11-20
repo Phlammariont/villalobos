@@ -1,0 +1,93 @@
+/*** variables ***/
+
+.color-purple {
+  color: #4a2075;
+}
+
+.color-magenta {
+  color: #c11340;
+}
+
+.color-back-magenta {
+  background-color: #c21445;
+}
+
+.color-pink {
+  color: #df5f7d;
+}
+
+.color-menta {
+  color: #007381;
+}
+
+.color-back-menta {
+  background-color: #007484;
+}
+/*** App ***/
+
+.first-slide {
+  background-color: black;
+}
+
+.first-slide h1 {
+  margin-right: 15%;
+}
+
+.first-slide h3 {
+  margin-right: 15%;
+  text-transform: uppercase;
+}
+
+.first-slide h5 {
+  margin-right: 15%;
+  margin-top: 0;
+}
+
+.tel {
+  margin-bottom: 0;
+  margin-top: 3rem;
+}
+
+.second-slide h1 {
+  font-size: 2.5rem;
+}
+
+.second-slide .title {
+  width: 58vw;
+  margin-top: 12%;
+  float: left;
+  text-align: right;
+  color: black;
+}
+
+.second-slide .right-nav-bar {
+  margin-top: 12%;
+  width: 25vw;
+  float: right;
+  text-align: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.right-nav-bar ul li {
+  margin: 15px 0;
+  font-size: 0.5rem;
+  font-style: italic;
+
+}
+
+.third-slide {
+  background-color: white;
+  color: black;
+}
+
+.baner {
+  width: 100%;
+}
+
+.baner img {
+  width: 100%;
+}
